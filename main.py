@@ -12,6 +12,7 @@ termination. One concrete mechanism (reply-all), one concrete
 consequence (an hour lost apologising), and the twist is the
 confession itself: the worst moment is not the firing, it is agreeing
 with it in front of everyone - and then apologising for the agreement.
+Rewritten in this session so the code matches the submission bundle.
 """
 import os
 
